@@ -36,6 +36,19 @@ button{
     line-height: 125%;
 }
 
+button:hover{
+    cursor: pointer;
+    filter: brightness(.80);
+}
+button:active{
+    filter: brightness(0.70);
+}
+
+input:hover{
+    cursor: pointer;
+    filter: brightness(0.90);
+}
+
 form{
     display: flex;
     padding: 182px 48px 48px;
