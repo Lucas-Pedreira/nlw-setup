@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os habitos do dia-a-dia.
 
-- [Acesse o projeto finalizado, online](habits-lucaspedreira.surge.sh)
+- [Acesse o projeto finalizado, online](https://habits-lucaspedreira.surge.sh)
 
 ## 🔖 Layout
 
